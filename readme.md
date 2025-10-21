@@ -194,7 +194,7 @@ You can use this README as the script outline for your video:
 
 ## 🧑‍💻 Credits
 
-Guide authored by [Your Name or Channel Name].\
+Guide authored by AKSHAY.\
 Tested on Android 13 (Realme RMX3241) using Termux v0.118.0.
 
 ---
