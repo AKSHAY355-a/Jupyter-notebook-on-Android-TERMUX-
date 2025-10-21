@@ -29,7 +29,7 @@ This comprehensive guide covers everything you need to know about setting up and
 
 ### Recommended Add-ons
 - [Termux:API](https://wiki.termux.com/wiki/Termux:API) - For additional functionality
-- [Hacker's Keyboard](https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard) - For better coding experience
+- [Hacker's Keyboard](https://f-droid.org/en/packages/org.pocketworkstation.pckeyboard/) - For better coding experience
 
 ---
 
