@@ -180,6 +180,28 @@ If it prints a version (e.g. `7.2.1`), you’re good to go.
 - Avoid running large notebooks; Termux memory is limited.
 
 ---
+## Create Quick Start Scripts and Run Jupyter Notebook
+
+### Bash: `start_jupyter.sh`
+#!/data/data/com.termux/files/usr/bin/bash
+source ~/myenv/bin/activate
+jupyter notebook --ip=0.0.0.0 --port=8888 --no-browser --NotebookApp.token='' --NotebookApp.password=''
+
+### Fish: `start_jupyter.fish`
+#!/data/data/com.termux/files/usr/bin/fish
+source ~/myenv/bin/activate.fish
+jupyter notebook --ip=0.0.0.0 --port=8888 --no-browser --NotebookApp.token='' --NotebookApp.password=''
+
+### Make scripts executable
+chmod +x start_jupyter.sh
+chmod +x start_jupyter.fish
+
+### Run Jupyter Notebook
+# Bash
+./start_jupyter.sh
+
+# Fish
+./start_jupyter.fish
 
 ## 🧑‍💻 Credits
 
