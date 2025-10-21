@@ -181,17 +181,6 @@ If it prints a version (e.g. `7.2.1`), you’re good to go.
 
 ---
 
-## 🎥 YouTube Guide Reference
-
-You can use this README as the script outline for your video:
-
-- **Part 1:** Setup Termux and dependencies
-- **Part 2:** Virtual environment and Jupyter installation
-- **Part 3:** Fixing all errors live
-- **Part 4:** Launching and using Jupyter on Android browser
-
----
-
 ## 🧑‍💻 Credits
 
 Guide authored by AKSHAY.\
